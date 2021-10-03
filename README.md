@@ -4,7 +4,7 @@
 
 This repo contains slides and resources for the course **Applied Analytics**.
 
-To review the content of this repo, visit the [course website](https://kirenz.github.io/applied-analytics/)
+To review the content of this repo, visit the [course website](https://kirenz.github.io/statistics/)
 
 ---
 
