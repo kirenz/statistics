@@ -15,3 +15,4 @@ Content we will cover
 - Statistical inference 
 - Probability 
 - Inferential modeling 
+```
