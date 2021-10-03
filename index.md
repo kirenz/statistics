@@ -3,6 +3,8 @@
 
 Content we will cover
 
+
+```markdown
 - Data basics 
 - Study Design
 - Exploratory data analysis
