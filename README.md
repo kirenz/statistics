@@ -1,4 +1,4 @@
-## Welcome to Applied Analytics!
+## Welcome to Statistics!
 
 ![](img/img.jpg)
 
