@@ -16,11 +16,19 @@ Content we will cover in this course:
 
 ---
 
-Slides
+**Slides**
 
 Nr  | Topic | Slides 
 -- | -- | -- 
 01| First data analysis: case study stents|[L01_1_case_study_stents](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_case_study_stents.pdf) 
+
+---
+
+**Notebooks**
+
+Lecture | Notebook | Link to GitHub | Colab Link 
+-- | -- | -- | --
+L04_1_case_study_stents|stents|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
 
 
 ---
