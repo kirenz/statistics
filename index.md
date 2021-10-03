@@ -26,9 +26,9 @@ Nr  | Topic | Slides
 
 **Notebooks**
 
-Lecture | Notebook | Link to GitHub | Colab Link 
+Nr | Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | --
-L04_1_case_study_stents|stents|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
+01 | L01_1_case_study_stents|stents|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
 
 
 ---
