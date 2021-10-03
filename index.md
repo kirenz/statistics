@@ -3,7 +3,6 @@
 
 Content we will cover in this course:
 
-
 - Data basics 
 - Study Design
 - Exploratory data analysis
@@ -15,6 +14,15 @@ Content we will cover in this course:
 - Probability 
 - Inferential modeling 
 
+---
+
+Slides
+
+Nr  | Topic | Slides 
+-- | -- | -- 
+01|First data analysis: case study stents|[L04_1_case_study_stents.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_case_study_stents.pdf) 
+
+---
 
 **Literature**
 
