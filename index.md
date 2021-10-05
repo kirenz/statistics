@@ -21,7 +21,6 @@ Content we will cover in this course:
 Nr  | Topic | Slides 
 -- | -- | -- 
 01 | First data analysis: case study stents | [L01_1_case_study_stents](https://github.com/kirenz/statistics/blob/main/slides/L01_1_case_study_stents.pdf)
-
 02| Data basics | [L01_2_data_basics](https://github.com/kirenz/statistics/blob/main/slides/L01_2_data_basics.pdf)  
 
 ---
