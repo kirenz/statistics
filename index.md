@@ -22,6 +22,7 @@ Nr  | Topic | Slides
 -- | -- | -- 
 01 | First data analysis: case study stents | [L01_1_case_study_stents](https://github.com/kirenz/statistics/blob/main/slides/L01_1_case_study_stents.pdf)
 02| Data basics | [L01_2_data_basics](https://github.com/kirenz/statistics/blob/main/slides/L01_2_data_basics.pdf) 
+02| Study design  | [L02_1_data_basics](https://github.com/kirenz/statistics/blob/main/slides/L02_1_data_basics.pdf) 
 03| Case: passwords| [L03_1_case_passwords.pdf](https://github.com/kirenz/statistics/blob/main/slides/L03_1_case_passwords.pdf) 
 04| Exploratory data analysis: categorical data|[L04_1_exploring_categorical_data.pdf](https://github.com/kirenz/statistics/blob/main/slides/L04_1_exploring_categorical_data.pdf) 
 
