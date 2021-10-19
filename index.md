@@ -5,7 +5,8 @@ Content we will cover in this course:
 
 - Data basics 
 - Study Design
-- Exploratory data analysis
+- Exploratory data analysis  
+
 
 
 - Introduction to modeling
