@@ -6,6 +6,8 @@ Content we will cover in this course:
 - Data basics 
 - Study Design
 - Exploratory data analysis
+
+
 - Introduction to modeling
 - Regression 
 - Classification 
@@ -35,8 +37,8 @@ Nr  | Topic | Slides
 Nr | Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | -- | --
 01 | L01_1_case_study_stents | stents | [GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb) | [Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
-02 | L03_1_case_passwords| passwords |[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)
-
+03 | L03_1_case_passwords| passwords |[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)
+04 | L04_1_exploring_categorical_data|contingency-table-bar-plot|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)
 
 
 ---
