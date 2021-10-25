@@ -50,6 +50,25 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 04 | L04_1_exploring_categorical_data |waffle-charts|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-5-waffle-charts.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-5-waffle-charts.ipynb)
 
 
+
+<!--
+
+L05_3_exploring_categorical_data|comparisons-across-groups|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-6-comparisons-across-groups.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-6-comparisons-across-groups.ipynb)
+L05_3_exploring_categorical_data|scatterplot-paired-data|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-1-scatterplot-paired-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-1-scatterplot-paired-data.ipynb)
+L05_3_exploring_categorical_data|dot-plots-mean|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-2-dot-plots-mean.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-2-dot-plots-mean.ipynb)
+L05_3_exploring_categorical_data|histograms|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)
+L05_3_exploring_categorical_data|x-case-height|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)
+L06_1_exploring_numerical_data|scatterplot-paired-data|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-1-scatterplot-paired-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-1-scatterplot-paired-data.ipynb)
+L06_2_exploring_numerical_data|dot-plots-mean|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-2-dot-plots-mean.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-2-dot-plots-mean.ipynb)
+L06_2_exploring_numerical_data|histograms|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)
+L06_2_exploring_numerical_data|x-case-height|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)
+L06_2_exploring_numerical_data|box-plot|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-5-box-plot.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-5-box-plot.ipynb)
+L06_2_exploring_numerical_data|robust-statistics|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-6-robust-statistics.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-6-robust-statistics.ipynb)
+L06_2_exploring_numerical_data|transforming-data|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-7-transforming-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-7-transforming-data.ipynb)
+L06_2_exploring_numerical_data|mapping-data|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-8-mapping-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-8-mapping-data.ipynb)
+
+-->
+
 ---
 
 **Literature**
