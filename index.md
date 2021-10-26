@@ -29,7 +29,7 @@ Nr  | Topic | Slides | Resources
 03| Case: passwords| [L03_1_case_passwords.pdf](https://github.com/kirenz/statistics/blob/main/slides/L03_1_case_passwords.pdf) | 
 04| Exploratory data analysis: categorical data|[L04_1_exploring_categorical_data.pdf](https://github.com/kirenz/statistics/blob/main/slides/L04_1_exploring_categorical_data.pdf) | [Data to Viz](https://www.data-to-viz.com/) 
 04| Exploratory data analysis: categorical data 2|[L04_2_exploring_categorical_data.pdf](https://github.com/kirenz/statistics/blob/main/slides/L04_2_exploring_categorical_data.pdf) | 
-05|L05_1_exploring_numerical_data|Exploratory data analysis: numerical data|[L05_1_exploring_numerical_data.pdf](https://github.com/kirenz/statistics/blob/main/slides/L06_1_exploring_numerical_data.pdf)  
+05| Exploratory data analysis: catnumerical data [L05_1_exploring_numerical_data.pdf)(https://github.com/kirenz/statistics/blob/main/slides/L06_1_exploring_numerical_data.pdf)  |
 
 
 <!--
