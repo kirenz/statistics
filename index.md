@@ -21,17 +21,40 @@ Content we will cover in this course:
 
 **Slides**
 
+#### Introduction  
+
 Nr  | Topic | Slides | Resources
 -- | -- | -- | --
 01 | First data analysis: case study stents | [L01_1_case_study_stents](https://github.com/kirenz/statistics/blob/main/slides/L01_1_case_study_stents.pdf) |
 02| Data basics | [L01_2_data_basics](https://github.com/kirenz/statistics/blob/main/slides/L01_2_data_basics.pdf) |
 02| Study design  | [L02_1_data_basics](https://github.com/kirenz/statistics/blob/main/slides/L02_1_data_basics.pdf) | 
 03| Case: passwords| [L03_1_case_passwords.pdf](https://github.com/kirenz/statistics/blob/main/slides/L03_1_case_passwords.pdf) | 
+
+#### Exploratory data analysis  
+
+
+Nr  | Topic | Slides | Resources
+-- | -- | -- | --
 04| Exploratory data analysis: categorical data|[L04_1_exploring_categorical_data.pdf](https://github.com/kirenz/statistics/blob/main/slides/L04_1_exploring_categorical_data.pdf) | [Data to Viz](https://www.data-to-viz.com/) 
 04| Exploratory data analysis: categorical data 2|[L04_2_exploring_categorical_data.pdf](https://github.com/kirenz/statistics/blob/main/slides/L04_2_exploring_categorical_data.pdf) | 
 05| Exploratory data analysis: numerical data | [L05_1_exploring_numerical_data.pdf](https://github.com/kirenz/statistics/blob/main/slides/L05_1_exploring_numerical_data.pdf)  | [Google Sheets](https://docs.google.com/spreadsheets/d/1yGtXut8DzW-FqrcbuXbbsrgcsGr86DokdnLt9Zpc0ak/edit?usp=sharing)
 05| EDA: Streuung | [L05_1_streuung.pdf](https://github.com/kirenz/statistics/blob/main/slides/L05_1_Streuung.pdf)  | [Google Sheets](https://docs.google.com/spreadsheets/d/1S57lvW0M4vzNRRTCK-BYh4-Rzza6OMdOUM32hwlGsoU/edit?usp=sharing)
 05|Exploratory data analysis: numerical data| [L05_2_exploring_numerical_data.pdf](https://github.com/kirenz/statistics/blob/main/slides/L05_2_exploring_numerical_data.pdf)  |
+
+
+#### Models  
+
+Nr | Lecture | Topic | Slides 
+-- | -- | -- | -- 
+07|L07_1_models_intro|Introduction to modeling|[L07_1_models_intro.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_1_models_intro.pdf)  
+<!--
+07|L07_2_models_algorithms|Introduction to modeling|[L07_2_models_algorithms.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_2_models_algorithms.pdf)  
+07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
+07|L07_4_models_challenges|Introduction to modeling|[L07_4_models_challenges.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_4_models_challenges.pdf)  
+08|L08_1_linear_regression_simple|Regression|[L08_1_linear_regression_simple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_1_linear_regression_simple.pdf)  
+08|L08_2_linear_regression_multiple|Regression|[L08_2_linear_regression_multiple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_2_linear_regression_multiple.pdf) 
+08|linear_regression_intro|Linear regression basics|[linear_regression_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/linear_regression_basics.pdf) 
+-->
 
 <!--
 06|L06_1_exploring_communication|Exploratory data analysis: communication|[L06_3_exploring_communication.pdf](https://github.com/kirenz/statistics/blob/main/slides/L06_3_exploring_communication.pdf)  
