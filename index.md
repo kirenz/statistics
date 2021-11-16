@@ -47,7 +47,7 @@ Nr  | Topic | Slides
 -- | -- | -- 
 07 | Introduction to modeling | [Models intro](https://github.com/kirenz/statistics/blob/main/slides/models-1-intro.pdf)  
 07| Overview about models and algorithms |[Models algorithms](https://github.com/kirenz/statistics/blob/main/slides/models-2-algorithms.pdf) 
-07| Models - Fundamentals|[Models fundamentals](https://github.com/kirenz/statistics/blob/main/slides/models-2-algorithms.pdf) 
+07| Models - Fundamentals|[Models fundamentals](https://github.com/kirenz/statistics/blob/main/slides/models-3-fundamentals.pdf) 
 
 
 <!--
