@@ -45,8 +45,10 @@ Nr  | Topic | Slides | Resources
 
 Nr  | Topic | Slides 
 -- | -- | -- 
-07 | Introduction to modeling | [L07_1_models_intro.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_1_models_intro.pdf)  
-07| Overview of models and algorithms |[L07_2_models_algorithms.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_2_models_algorithms.pdf) 
+07 | Introduction to modeling | [Models intro](https://github.com/kirenz/statistics/blob/main/slides/models-1-intro.pdf)  
+07| Overview about models and algorithms |[Models algorithms](https://github.com/kirenz/statistics/blob/main/slides/models-2-algorithms.pdf) 
+07| Models - Fundamentals|[Models fundamentals](https://github.com/kirenz/statistics/blob/main/slides/models-2-algorithms.pdf) 
+
 
 <!--
 07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
