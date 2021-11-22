@@ -48,7 +48,11 @@ Nr  | Topic | Slides
 07 | Introduction to modeling | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-1-intro.pdf)  
 07| Overview about models and algorithms |[slides](https://github.com/kirenz/statistics/blob/main/slides/models-2-algorithms.pdf) 
 07| Models - Fundamentals|[slides](https://github.com/kirenz/statistics/blob/main/slides/models-3-fundamentals.pdf) 
+
+<!--
 07 | Simple linear regression | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-4-simple-linear-regression.pdf)
+07 | Multiple linear regression | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-5-multiple-linear-regression.pdf)
+-->
 
 <!--
 07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
