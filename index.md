@@ -44,12 +44,12 @@ Nr  | Topic | Slides | Resources
 
 #### Models  
 
-Nr  | Topic | Slides 
--- | -- | -- 
-07 | Introduction to modeling | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-1-intro.pdf)  
-07| Overview about models and algorithms |[slides](https://github.com/kirenz/statistics/blob/main/slides/models-2-algorithms.pdf) 
-07| Models - Fundamentals|[slides](https://github.com/kirenz/statistics/blob/main/slides/models-3-fundamentals.pdf) 
-07 | Simple linear regression | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-4-simple-linear-regression.pdf)
+Nr  | Topic | Slides | Notes
+-- | -- | -- |
+07 | Introduction to modeling | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-1-intro.pdf)  |
+07| Overview about models and algorithms |[slides](https://github.com/kirenz/statistics/blob/main/slides/models-2-algorithms.pdf) |
+07| Models - Fundamentals|[slides](https://github.com/kirenz/statistics/blob/main/slides/models-3-fundamentals.pdf) | [Notes](https://drive.google.com/file/d/1MMetljDEGVPWNB8-goCKYe0L4BvWKY-E/view?usp=sharing)
+07 | Simple linear regression | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-4-simple-linear-regression.pdf) |
 
 <!--
 07 | Multiple linear regression | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-5-multiple-linear-regression.pdf)
