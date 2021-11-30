@@ -7,9 +7,10 @@ Content we will cover in this course:
 - Study Design
 - Exploratory data analysis  
 - Introduction to modeling
-
-
 - Regression 
+
+
+
 - Classification 
 - Foundations of inference  
 - Statistical inference 
