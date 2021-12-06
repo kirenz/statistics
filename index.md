@@ -53,6 +53,10 @@ Nr  | Topic | Slides | Resources
 07 | Multiple linear regression | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-5-multiple-linear-regression.pdf)
 
 <!--
+09 | Logistic regression (classification) | [slides](https://github.com/kirenz/statistics/blob/main/slides/9-logistic-regression-pdf.pdf)
+-->
+
+<!--
 
 #### Foundations of inference
 
