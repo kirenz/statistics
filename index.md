@@ -87,7 +87,7 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 Models
 
 Lecture | Notebook | Link to GitHub | Colab Link 
--- | -- | -- | -- | --
+-- | -- | -- | --
 Linear regression eda |a-application-data-exploration|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/10a-application-model-exploration.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/10a-application-model-exploration.ipynb)
 Linear regression statsmodels|b-application-model-statsmodel|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/10b1-application-model-statsmodel.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/10b1-application-model-statsmodel.ipynb)
 
