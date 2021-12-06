@@ -70,6 +70,8 @@ Nr  | Topic | Slides | Notes
 
 **Notebooks**
 
+Exploratory data analysis
+
 Nr | Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | -- | --
 01 | L01_1_case_study_stents | stents | [GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb) | [Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
@@ -81,6 +83,18 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 05 | L05_3_exploring_categorical_data|dot-plots-mean|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-2-dot-plots-mean.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-2-dot-plots-mean.ipynb)
 05 | L05_3_exploring_categorical_data|histograms|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)
 05 | L05_3_exploring_categorical_data|x-case-height|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)
+
+Models
+
+Lecture | Notebook | Link to GitHub | Colab Link 
+-- | -- | -- | -- | --
+Linear regression eda |a-application-data-exploration|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/10a-application-model-exploration.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/10a-application-model-exploration.ipynb)
+Linear regression statsmodels|b-application-model-statsmodel|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/10b1-application-model-statsmodel.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/10b1-application-model-statsmodel.ipynb)
+
+<!--
+Linear regression scikit-learn|b-application-model-sklearn|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/10b2-application-model-sklearn.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/10b2-application-model-sklearn.ipynb)
+Linear regression tensorflow|b-application-model-tensorflow|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/10b3-application-model-tensorflow.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/10b3-application-model-tensorflow.ipynb)
+-->
 
 <!--
 L06_1_exploring_numerical_data|scatterplot-paired-data|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-1-scatterplot-paired-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-1-scatterplot-paired-data.ipynb)
