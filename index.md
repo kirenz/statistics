@@ -44,7 +44,7 @@ Nr  | Topic | Slides | Resources
 
 #### Models  
 
-Nr  | Topic | Slides | Notes
+Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | --
 07 | Introduction to modeling | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-1-intro.pdf)  |
 07| Overview about models and algorithms |[slides](https://github.com/kirenz/statistics/blob/main/slides/models-2-algorithms.pdf) |
