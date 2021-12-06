@@ -19,7 +19,7 @@ Content we will cover in this course:
 
 ---
 
-**Slides**
+### Slides
 
 #### Introduction  
 
@@ -68,9 +68,9 @@ Lecture | Notebook | Link to GitHub | Colab Link
 
 ---
 
-**Notebooks**
+### Notebooks
 
-Exploratory data analysis
+#### Exploratory data analysis
 
 Nr | Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | -- | --
@@ -84,7 +84,7 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 05 | L05_3_exploring_categorical_data|histograms|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)
 05 | L05_3_exploring_categorical_data|x-case-height|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)
 
-Models
+#### Models
 
 Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | --
@@ -110,7 +110,7 @@ L06_2_exploring_numerical_data|mapping-data|[GitHuB](https://github.com/kirenz/m
 
 ---
 
-**Literature**
+### Literature
 
 [Çetinkaya-Rundel, M. & Hardin, J. (2021). Introduction to Modern Statistics. Open Book](https://openintro-ims.netlify.app/) 
 
