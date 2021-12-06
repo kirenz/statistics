@@ -44,7 +44,7 @@ Nr  | Topic | Slides | Resources
 
 #### Models  
 
-Lecture | Notebook | Link to GitHub | Colab Link 
+Nr  | Topic | Slides | Resources
 -- | -- | -- | --
 07 | Introduction to modeling | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-1-intro.pdf)  |
 07| Overview about models and algorithms |[slides](https://github.com/kirenz/statistics/blob/main/slides/models-2-algorithms.pdf) |
@@ -52,6 +52,18 @@ Lecture | Notebook | Link to GitHub | Colab Link
 07 | Simple linear regression | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-4-simple-linear-regression.pdf) |
 07 | Multiple linear regression | [slides](https://github.com/kirenz/statistics/blob/main/slides/models-5-multiple-linear-regression.pdf)
 
+<!--
+
+#### Foundations of inference
+
+Nr  | Topic | Slides | Resources
+11 | Hypothesis testing with randomization | [slides](https://github.com/kirenz/statistics/blob/main/slides/11-hypothesis-testing.pdf)  |
+
+
+
+
+
+-->
 
 <!--
 07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
