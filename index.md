@@ -61,8 +61,6 @@ Nr  | Topic | Slides | Resources
 
 
 
--->
-
 <!--
 07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
 07|L07_4_models_challenges|Introduction to modeling|[L07_4_models_challenges.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_4_models_challenges.pdf)  
