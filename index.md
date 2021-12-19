@@ -57,6 +57,7 @@ Nr  | Topic | Slides | Resources
 #### Foundations of inference
 
 Nr  | Topic | Slides | Resources
+-- | -- | -- | --
 11 | Hypothesis testing with randomization | [slides](https://github.com/kirenz/statistics/blob/main/slides/11-hypothesis-testing.pdf)  |
 
 
