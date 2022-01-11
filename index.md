@@ -60,7 +60,7 @@ Nr  | Topic | Slides | Resources
 -- | -- | -- | --
 11 | Hypothesis testing with randomization | [slides](https://github.com/kirenz/statistics/blob/main/slides/11-hypothesis-testing.pdf)  |
 12 | Confidence intervals with bootsrapping | [slides](https://github.com/kirenz/statistics/blob/main/slides/12-confidence-intervals.pdf)  |
-12 | Mathematical models | [slides](https://github.com/kirenz/statistics/blob/main/slides/13-mathematical-models.pdf)  |
+13 | Mathematical models | [slides](https://github.com/kirenz/statistics/blob/main/slides/13-mathematical-models.pdf)  |
 
 
 
