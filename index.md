@@ -8,12 +8,11 @@ Content we will cover in this course:
 - Exploratory data analysis  
 - Introduction to modeling
 - Regression 
-
-
-
 - Classification 
 - Foundations of inference  
 - Statistical inference 
+
+
 - Probability 
 - Inferential modeling 
 
