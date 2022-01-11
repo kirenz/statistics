@@ -12,6 +12,7 @@ Content we will cover in this course:
 - Foundations of inference  
 - Statistical inference 
 
+<br>
 
 - Probability 
 - Inferential modeling 
