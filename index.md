@@ -17,6 +17,7 @@ Content we will cover in this course:
 - Probability 
 - Inferential modeling 
 
+
 ---
 
 ### Slides
@@ -76,12 +77,24 @@ Nr  | Topic | Slides | Resources
 06|L06_1_exploring_communication|Exploratory data analysis: communication|[L06_3_exploring_communication.pdf](https://github.com/kirenz/statistics/blob/main/slides/L06_3_exploring_communication.pdf)  
 -->
 
+---
+
+### Literature
+
+[Çetinkaya-Rundel, M. & Hardin, J. (2021). Introduction to Modern Statistics. Open Book](https://openintro-ims.netlify.app/) 
+
+[James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). Statistical learning. An introduction to statistical learning. Springer, New York, NY.](https://www.statlearning.com/)
+
 
 ---
 
-### Notebooks
+### Aditional resources
 
-#### Exploratory data analysis
+*Not relevant for exam*
+
+#### Notebooks
+
+Exploratory data analysis
 
 Nr | Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | -- | --
@@ -95,7 +108,7 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 05 | L05_3_exploring_categorical_data|histograms|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)
 05 | L05_3_exploring_categorical_data|x-case-height|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)
 
-#### Models
+Models
 
 Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | --
@@ -121,8 +134,3 @@ L06_2_exploring_numerical_data|mapping-data|[GitHuB](https://github.com/kirenz/m
 
 ---
 
-### Literature
-
-[Çetinkaya-Rundel, M. & Hardin, J. (2021). Introduction to Modern Statistics. Open Book](https://openintro-ims.netlify.app/) 
-
-[James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). Statistical learning. An introduction to statistical learning. Springer, New York, NY.](https://www.statlearning.com/)
