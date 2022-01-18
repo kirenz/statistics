@@ -66,6 +66,11 @@ Nr  | Topic | Slides | Resources
 
 
 <!--
+18 | Two way table (crosstable) | [slides](https://github.com/kirenz/statistics/blob/main/slides/18-infer-two-way-table.pdf)  |
+-->
+
+
+<!--
 07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
 07|L07_4_models_challenges|Introduction to modeling|[L07_4_models_challenges.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_4_models_challenges.pdf)  
 08|L08_1_linear_regression_simple|Regression|[L08_1_linear_regression_simple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_1_linear_regression_simple.pdf)  
