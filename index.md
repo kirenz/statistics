@@ -93,7 +93,7 @@ Nr  | Topic | Slides | Resources
 
 ---
 
-### Aditional resources
+### Additional resources
 
 *Not relevant for exam*
 
