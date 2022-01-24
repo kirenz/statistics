@@ -63,8 +63,9 @@ Nr  | Topic | Slides | Resources
 12 | Confidence intervals with bootsrapping | [slides](https://github.com/kirenz/statistics/blob/main/slides/12-confidence-intervals.pdf)  |
 13 | Mathematical models | [slides](https://github.com/kirenz/statistics/blob/main/slides/13-mathematical-models.pdf)  |
 14 | Decision errors | [slides](https://github.com/kirenz/statistics/blob/main/slides/14-decision-errors.pdf)  |
-18 | Two way table (crosstable) | [slides](https://github.com/kirenz/statistics/blob/main/slides/18-infer-two-way-table.pdf)  |
 
+#### Statistical inference
+18 | Two way table (crosstable) | [slides](https://github.com/kirenz/statistics/blob/main/slides/18-infer-two-way-table.pdf)  |
 
 
 <!--
