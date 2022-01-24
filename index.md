@@ -65,8 +65,9 @@ Nr  | Topic | Slides | Resources
 14 | Decision errors | [slides](https://github.com/kirenz/statistics/blob/main/slides/14-decision-errors.pdf)  |
 
 #### Statistical inference
+-- | -- | -- | --
 18 | Two way table (crosstable) | [slides](https://github.com/kirenz/statistics/blob/main/slides/18-infer-two-way-table.pdf)  |
-
+  | Auswahl eines Tests  | [Methodenübersicht](https://www.methodenberatung.uzh.ch/de/datenanalyse_spss.html)
 
 <!--
 07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
