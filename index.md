@@ -70,6 +70,7 @@ Nr  | Topic | Slides | Resources
 -- | -- | -- | --
 18 | Two way table (crosstable) | [slides](https://github.com/kirenz/statistics/blob/main/slides/18-infer-two-way-table.pdf)  |
 0   | Auswahl eines Tests        | [Methodenübersicht](https://www.methodenberatung.uzh.ch/de/datenanalyse_spss.html), [Entscheidungshilfe](https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/entscheidassistent.html) |
+0 | Statistical tests in Python | [Overview](https://kirenz.github.io/inference/intro.html) |
 
 <!--
 07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
